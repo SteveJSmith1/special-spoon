@@ -16,3 +16,13 @@ found [Here](https://github.com/donnemartin/interactive-coding-challenges).
 ***Solutions not yet implemented***
 * [Hash Map](https://github.com/SteveJSmith1/special-spoon/blob/master/arrays_strings/hash_map/hash_map_challenge.ipynb)
 * [Priority Queue](https://github.com/SteveJSmith1/special-spoon/blob/master/arrays_strings/priority_queue/priority_queue_challenge.ipynb)
+
+## Solutions to math_probability:
+* [Add Digits](https://github.com/SteveJSmith1/special-spoon/blob/master/math_probability/add_digits/add_digits_challenge.ipynb)
+
+***Solutions not yet implemented***
+* [Generate Primes](https://github.com/SteveJSmith1/special-spoon/blob/master/math_probability/generate_primes/check_prime_challenge.ipynb)
+* [Math Operations](https://github.com/SteveJSmith1/special-spoon/blob/master/math_probability/math_ops/math_ops_challenge.ipynb)
+* [Power Two](https://github.com/SteveJSmith1/special-spoon/blob/master/math_probability/power_two/power_two_challenge.ipynb)
+* [Sub Two](https://github.com/SteveJSmith1/special-spoon/blob/master/math_probability/sub_two/sub_two_challenge.ipynb)
+* [Sum Two](https://github.com/SteveJSmith1/special-spoon/blob/master/math_probability/sum_two/sum_two_challenge.ipynb)
