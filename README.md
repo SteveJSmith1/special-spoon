@@ -13,6 +13,6 @@ found [Here](https://github.com/donnemartin/interactive-coding-challenges).
 * [Unique Chars](https://github.com/SteveJSmith1/special-spoon/blob/master/arrays_strings/unique_chars/unique_chars_challenge.ipynb)
 * [Fizz Buzz](https://github.com/SteveJSmith1/special-spoon/blob/master/arrays_strings/fizz_buzz/fizz_buzz_challenge.ipynb)
 
-*** Solutions not yet implemented ***
+***Solutions not yet implemented***
 * [Hash Map](https://github.com/SteveJSmith1/special-spoon/blob/master/arrays_strings/hash_map/hash_map_challenge.ipynb)
 * [Priority Queue](https://github.com/SteveJSmith1/special-spoon/blob/master/arrays_strings/priority_queue/priority_queue_challenge.ipynb)
